@@ -1,0 +1,33 @@
+.original {
+	background-color: white;
+	
+	border-top: 15px solid #1abc9c;
+	border-bottom: 1px solid: #111111;
+}
+
+.profile {
+	border-right: 1px solid #eeeeee;
+	padding-bottom: 15px;
+}
+
+.profile img {
+	margin-top: 15px;
+	margin-left: -15px;
+}
+.message {
+	margin-top: 15px;
+	
+}
+
+
+body {
+	background-color: #eeeeee;
+}
+
+
+.comment {
+	background-color: white;
+	margin-bottom: 10px;
+	
+	border-bottom: 1px solid: #111111;
+}
